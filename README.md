@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub  [Modified by YİĞİT ALP BİLGİN, 820210312]
+# :wave: The Basics of GitHub  [Modified by YİĞİT ALP BİLGİN at 10:59:12, 25.10.2021, Student ID:820210312]
 
 ## 🤓 Course overview and learning outcomes 
 
