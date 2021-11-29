@@ -24,6 +24,7 @@
         }
         li:first-child {
            border: thick solid green;
+           margin-bottom: 1em;
            margin-top: 1em;
            padding: 1ex;
            width: 40%;
