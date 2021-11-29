@@ -1,7 +1,11 @@
         h1{
+         text-align: center;
+         border: thick solid rred;
+         text-decoration: none;
+         padding: 1ex;
+         width: 50%;
          font-size: 24 pt;  
          color:red;
-         text-decoration: underline;
          font-family: Tahoma, Helvetica, sans-serif;
 
         }
@@ -15,3 +19,18 @@
         ul {
            list-style-type: square;
         }
+        a:hover {
+           text-decoration: none;
+        }
+        li:first-child {
+           border: thick solid green;
+           margin-top: 1em;
+           padding: 1ex;
+           width: 40%;
+
+        }
+        p.centered {
+           text-align: center;
+           width: 50%;
+        }
+        
